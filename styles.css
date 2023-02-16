@@ -1,13 +1,12 @@
 #container {
-    height: 400px;
-    width: 400px;
+    height: 960px;
+    width: 960px;
     outline: 2px;
+    display: flex;
 }
 
 
 .child {
-    height: 100px;
-    width: 100px;
     float: left;
     outline: 1px solid;
 }
