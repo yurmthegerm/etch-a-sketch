@@ -1,11 +1,17 @@
 #container {
-    height: 960px;
-    width: 960px;
-    outline: 2px;
+    height: 600px;
+    width: 600px;
+    outline: 4px;
+    padding: 30px;
 }
 
 
 .child {
     float: left;
     outline: 1px solid;
+}
+
+button {
+    padding: 15px 20px;
+    font-size: 20px;
 }
